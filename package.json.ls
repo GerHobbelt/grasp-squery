@@ -35,7 +35,8 @@ dependencies:
   'grasp-syntax-javascript': '~0.2.2'
 
 dev-dependencies:
+  globby: '^6.1.0'
+  istanbul: '^0.4.5'
   livescript: '~1.5.0'
   mocha: '~3.5.0'
-  istanbul: '~0.4.5'
   'flow-parser': '^0.53.1'

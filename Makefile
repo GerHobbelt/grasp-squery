@@ -13,7 +13,7 @@ package.json: package.json.ls
 	$(LSC) --compile package.json.ls
 
 lib:
-	mkdir lib/
+	mkdir -p lib/
 
 update_version:
 	node __patch_version_in_js.js
