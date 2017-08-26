@@ -32,10 +32,10 @@ scripts:
 
 dependencies:
   'prelude-ls': '~1.1.2'
-  'grasp-syntax-javascript': '~0.2.0'
+  'grasp-syntax-javascript': '~0.2.2'
 
 dev-dependencies:
-  livescript: '~1.4.0'
-  mocha: '~2.1.0'
-  istanbul: '~0.1.43'
-  'flow-parser': '^0.*'
+  livescript: '~1.5.0'
+  mocha: '~3.5.0'
+  istanbul: '~0.4.5'
+  'flow-parser': '^0.53.1'
